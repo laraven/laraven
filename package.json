@@ -1,5 +1,5 @@
 {
-  "name": "laraven",
+  "name": "@laraven/laraven",
   "version": "0.0.1",
   "description": "The Laraven Framework",
   "main": "server.js",
