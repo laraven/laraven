@@ -1,0 +1,29 @@
+{
+  "name": "laraven",
+  "version": "0.0.1",
+  "description": "The Laraven Framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laraven/laraven.git"
+  },
+  "keywords": [
+    "laraven",
+    "laravel",
+    "framework",
+    "web",
+    "http",
+    "rest",
+    "restful",
+    "api"
+  ],
+  "author": "Muhammad Nasir Rahimi <mnrafg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laraven/laraven/issues"
+  },
+  "homepage": "https://github.com/laraven/laraven#readme"
+}
